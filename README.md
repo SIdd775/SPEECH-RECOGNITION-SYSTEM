@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH 
 
 ##DESCRIPTION:
+
 A **Speech-to-Text (STT) system**, also known as automatic speech recognition (ASR), converts spoken language into written text. It is a key component in many modern applications such as virtual assistants, transcription services, customer support automation, and accessibility tools. Building a speech-to-text system using pre-trained models and libraries allows developers to quickly create efficient and accurate solutions without the need for large-scale data or complex training processes.
 
 ---
